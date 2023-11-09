@@ -33,5 +33,5 @@
 <br>
 <h2>My social networks: <span align="left"></h2> 
 
-<a href="https://vk.com/mikakpln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="VK: mika" height="25" width="30" /></a>
-<a href="https://t.me/mkkkpln" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: mika" height="25" width="30" /></a>
+<a href="https://vk.com/mikakpln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="VK: mika" height="35" width="35" /></a>
+<a href="https://t.me/mkkkpln" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: mika" height="35" width="35" /></a>
